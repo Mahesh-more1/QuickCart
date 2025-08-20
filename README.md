@@ -2,7 +2,7 @@
 
 QuickCart is a modern, responsive ecommerce web application built using **HTML**, **CSS**, **JavaScript**, and **Vite**. It allows users to browse tech gadgets and lifestyle products, add items to their cart, and experience seamless shopping with interactive UI and local storage support. This project is inspired by Thapa Technical’s frontend ecommerce series.
 
----
+***
 
 ## ✨ Features
 
@@ -15,7 +15,7 @@ QuickCart is a modern, responsive ecommerce web application built using **HTML**
 - **Easy Navigation:** Multi-page structure for user-friendly browsing.
 - **No Backend Needed:** All data and logic run on the frontend, ideal for GitHub Pages static hosting.
 
----
+***
 
 ## 🛠️ Tech Stack
 
@@ -27,7 +27,7 @@ QuickCart is a modern, responsive ecommerce web application built using **HTML**
 - **Data Source:** Static JSON at `api/product.json`
 - **Design:** CSS Grid \& Flex, custom color variables, animations
 
----
+***
 
 ## 📁 Folder Structure
 
@@ -78,7 +78,8 @@ EcommerceProject/
 └── README.md
 ```
 
----
+
+***
 
 ## 📝 Installation \& Setup
 
@@ -86,6 +87,7 @@ EcommerceProject/
 
 - Node.js v16 or above
 - npm (included with Node.js)
+
 
 ### Steps
 
@@ -120,7 +122,8 @@ npm run build
 npm run preview
 ```
 
----
+
+***
 
 ## 📦 Project Highlights
 
@@ -130,7 +133,13 @@ npm run preview
 - **Simple Extensibility:** New products can be added to the JSON file, or you can add features/pages.
 - **GitHub Pages Ready:** All files are static, so you can make your project live with GitHub Pages easily.
 
----
+***
+
+## 🌐 Live Demo
+
+`https://Mahesh-more1.github.io/QuickCart/`
+
+***
 
 ## 🤝 Contributing
 
@@ -155,22 +164,22 @@ git push origin feature/MyFeature
 
 5. Submit a Pull Request
 
----
+***
 
 ## 📄 License
 
 MIT License
 
----
+***
 
 ## 🙏 Credits
 
 - [Thapa Technical](https://www.thapatechnical.com/) for frontend inspiration
 - Font Awesome \& Google Fonts for icons \& typography
 - Created by **Mahesh More** (Mahesh-more1)
-  [mmore2743@gmail.com](mailto:mmore2743@gmail.com)
+[mmore2743@gmail.com](mailto:mmore2743@gmail.com)
 
----
+***
 
 ## 📞 Contact
 
