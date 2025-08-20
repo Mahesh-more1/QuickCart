@@ -3,6 +3,12 @@
 QuickCart is a modern, responsive ecommerce web application built using **HTML**, **CSS**, **JavaScript**, and **Vite**. It allows users to browse tech gadgets and lifestyle products, add items to their cart, and experience seamless shopping with interactive UI and local storage support. This project is inspired by Thapa Technical’s frontend ecommerce series.
 
 ***
+## 🌐 Live Demo (GitHub Pages)
+
+Deployed on GitHub Pages:  
+👉 [**QuickCart Ecommerce Live Site**](https://mahesh-more1.github.io/QuickCart/)
+
+---
 
 ## ✨ Features
 
@@ -132,12 +138,6 @@ npm run preview
 - **Intuitive UI:** CSS grids, cards, and utility classes provide a clean, organized layout.
 - **Simple Extensibility:** New products can be added to the JSON file, or you can add features/pages.
 - **GitHub Pages Ready:** All files are static, so you can make your project live with GitHub Pages easily.
-
-***
-
-## 🌐 Live Demo
-
-`https://Mahesh-more1.github.io/QuickCart/`
 
 ***
 
